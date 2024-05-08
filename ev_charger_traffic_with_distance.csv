@@ -1,0 +1,225 @@
+Petrol Pump Name,Petrol Pump Address,Latitude,Longitude,Number of Cars Charging,Number of Available Chargers,Cars Charging,Waiting Times (minutes),Minimum Waiting Time (minutes),Distance (km)
+Hindustan Petroleum,"Hpcl Dealer Near Victoria Garden ahmedabad, Raikhad, Ahmedabad",23.021639,72.581375,2,2,"Citroen eC3, Tata Nexon EV Max","17, 7",7,1.03
+Bharat Petroleum,"NEHRUBRIDGEASHRAM, ROAD, Ahmedabad",23.0257089,72.5714827,1,3,BMW i7,13,13,0.36
+Hindustan Petroleum,"Lal Darwaja, Ahmedabad",23.027584,72.5803059,3,1,"Tata Punch, BMW i7, Mercedes Benz EQS","24, 9, 9",9,1.08
+Indian Oil Petroleum,"NH 8, Naroda GIDC Road, Nana Chiloda, Ahmedabad",23.099541,72.6680301,3,1,"Hyundai Kona EV, Tata Nexon EV Max, MG ZS EV","38, 34, 26",26,13.08
+Nayara Petroleum,India,23.1122555,72.6715482,4,0,"MG ZS EV, Tata Tiago EV, Hyundai Ioniq 5, Tata Punch","49, 48, 13, 29",13,14.31
+Hindustan Petroleum,"4M5C+8FM, Nana, Chiloda",23.1083472,72.6711846,4,0,"Audi e-Tron GT, MG ZS EV, BMW i4, BYD Atto 3","18, 31, 37, 25",18,13.98
+Hindustan Petroleum,"Gandhinagar, NH-8, Sabarkath Road, Gandhi Nagar, Gandhinagar",23.226,72.731,1,3,Tata Punch,9,9,27.9
+Indian Oil Petroleum,"Survey No 244 Lavarpur, Basan, Gandhinagar",23.180901,72.707001,4,0,"Audi e-Tron GT, Tata Nexon EV Max, BYD Atto 3, Kia EV6","15, 33, 9, 15",9,22.42
+Essar Petroleum,"National Highway 48, Pirojpur",23.1676159,72.7077976,1,3,Tata Nexon EV Max,32,32,21.33
+Indian Oil Petroleum,"Ground Floor, Jethipura, Gandhinagar, Basan",23.163801,72.704301,4,0,"Kia EV6, MG ZS EV, Tata Tiago EV, BMW i7","15, 22, 38, 29",15,20.78
+Petrol Pump,"Sadhanabhavan Brahmakumari, Valad",23.1487132,72.6933997,3,1,"Hyundai Kona EV, Tata Tiago EV, BYD E6","4, 9, 19",4,18.78
+Indian Oil Petroleum,"Survey No 505 Dashela, Gandhinagar,Bilasia, Ahmedabad",23.25838,72.74638,1,3,BYD Atto 3,32,32,31.75
+Nayara Petroleum,"Moti Shiholi NH 8, Mota, Chiloda",23.2501005,72.7422154,2,2,"Mahindra XUV 400 EL, BMW i7","21, 29",21,30.75
+Hindustan Petroleum,India,23.2694187,72.7550532,3,1,"MG Comet, Audi e-Tron GT, Hyundai Ioniq 5","81, 16, 7",7,33.26
+Reliance Petroleum,"6PGJ+CQC, Chiloda",23.2260728,72.7318827,3,1,"Hyundai Ioniq 5, MG Comet, Tata Punch","4, 103, 47",4,27.96
+Indian Oil Petroleum,"Ground Floor, NH 8, Chekhala Pagi, Chandrala",23.339601,72.780801,4,0,"Mahindra XUV 400 EL, Hyundai Ioniq 5, Tata Punch, Tata Nexon EV Max","20, 6, 24, 25",6,41.25
+Jio Petroleum,"Survey No 968 Chiloda Himmatnagar Road, National Highway 48, Chhala",23.3221699,72.7783704,3,1,"Tata Tigor EV, Mercedes Benz EQS, Mahindra XUV 400 EL","21, 15, 15",15,39.47
+Nayara Petroleum,"National Highway 228, Arbudanagar, Chhala",23.3005558,72.7690846,1,3,Hyundai Kona EV,26,26,36.94
+Hindustan Petroleum,Oran,23.3958397,72.8197036,1,3,Hyundai Ioniq 5,17,17,48.66
+Hindustan Petroleum,"Sabarkantha, NH-8, Sabarkath Road, Himatnagar, Himatnagar",23.4436,72.8517,2,2,"Mercedes Benz EQS, MG ZS EV","15, 59",15,54.89
+Hindustan Petroleum,"9RW9+CR5, Oran",23.3960247,72.8196124,1,3,Tata Punch,46,46,48.67
+Petrol Pump,"National Highway 48, Katpur",23.4167803,72.8342068,3,1,"Hyundai Kona EV, Mercedes Benz EQS, Audi e-Tron GT","4, 23, 4",4,51.42
+Hindustan Petroleum,"HP Petrol Pump National Highway NO 8 Prantij,gujarat, Ahmedabad",23.4436135,72.8517519,3,1,"Tata Tiago EV, Kia EV6, Audi e-Tron GT","17, 1, 2",1,54.89
+Indian Oil Petroleum,"Ground Floor, NH 8, Balisana",23.444944,72.85508,2,2,"BYD E6, Mahindra XUV 400 EL","8, 26",8,55.2
+Indian Oil Petroleum,"Ground Floor Himmatnagar, Salal, Prantij, Himatnagar",23.48761,72.900228,4,0,"Tata Tiago EV, Citroen eC3, BYD Atto 3, MG ZS EV","1, 29, 26, 4",1,61.67
+Hindustan Petroleum,"Sabarkantha, NH-8, Sabarkath Road, Himatnagar",23.5207,72.936,2,2,"Hyundai Kona EV, Citroen eC3","45, 11",11,66.75
+Petrol Pump,"GW58+CM, Dalpur",23.508625,72.9167167,2,2,"Citroen eC3, Audi e-Tron GT","2, 18",2,64.55
+Hindustan Petroleum,"At: JAWANGADH, HIMATNAGAR-SHAMLAJI N.H.NO.8, TA:HIMATNAGAR, DIST:S.K 383276, GUJ HN 8, Raigadh",23.5800523,72.9757886,2,2,"Tata Nexon EV Max, Tata Tigor EV","24, 4",4,74.49
+Petrol Pump,"cross road, Opp. Swaminarayan Temple, Towards Kankrol to Sahkari Jin, National Highway-8, Kanknol, Himatnagar",23.5807781,72.989133,3,1,"Hyundai Kona EV, BYD Atto 3, MG ZS EV","15, 33, 53",15,75.32
+Bharat Petroleum,"HIMMATNAGAR, NH8, SABARKAN",23.5788565,72.9583412,3,1,"Mahindra XUV 400 EL, Citroen eC3, Audi e-Tron GT","34, 14, 7",7,73.41
+Indian Oil Petroleum,"Ground Floor, Piplodi NH 48, Ahmedabad Himatnagar Hwy,Hajipur, Himatnagar",23.5727001,72.9566001,2,2,"Tata Nexon EV Max, Tata Punch","38, 49",38,72.74
+Hindustan Petroleum,"Sabarkantha NH-8, Sabarkath Road, Himatnagar",23.5986503,73.0780919,3,1,"Kia EV6, Hyundai Ioniq 5, Tata Nexon EV Max","3, 4, 41",3,82.35
+Indian Oil Petroleum,"Ground Floor Gambhoi, NH 08, Shravana",23.601175,73.100106,2,2,"Kia EV6, Tata Punch","4, 13",4,84.0
+Petrol Pump,"H3XH+G92, Karanpur",23.5987532,73.0783906,3,1,"Hyundai Kona EV, Citroen eC3, BYD Atto 3","18, 13, 39",13,82.38
+Essar Petroleum,"Sabarkantha, NH-8, Sabarkath Road, Himatnagar, Himatnagar",23.5863,73.0311,4,0,"Hyundai Ioniq 5, Tata Nexon EV Max, Mercedes Benz EQS, BMW i4","9, 2, 28, 42",2,78.32
+Indian Oil Petroleum,"Venpur, Samalaji",23.7080855,73.3905127,1,3,Kia EV6,10,10,113.15
+Bharat Petroleum,"SHAMLAJI ,NH8, SABARKANTHA, SABARKANTHA",23.6824925,73.3658517,2,2,"Hyundai Ioniq 5, Tata Nexon EV Max","4, 17",4,109.38
+Hindustan Petroleum,"Survey No. 11/1, venpur, National Highway 48, Samalaji",23.70518,73.3918299,2,2,"MG ZS EV, Audi e-Tron GT","39, 11",11,113.03
+Indian Oil Petroleum,"Ground Floor Bhiloda, Shamlaji, Ambalia",23.70828,73.39012,1,3,Hyundai Kona EV,42,42,113.14
+Indian Oil Petroleum,"Ground Floor NH 8, Shamlaji, Bhiloda, Devni Mori",23.723785,73.4009001,2,2,"Citroen eC3, Kia EV6","24, 16",16,115.11
+Reliance Petroleum,"NH 8, Nava Venpur, Shamlaji, Bhiloda",23.7284462,73.4029929,3,1,"Tata Nexon EV Max, Mahindra XUV 400 EL, MG Comet","41, 7, 90",7,115.61
+Hindustan Petroleum,"Ratanpur, NH-8, Dungarpur",23.7632243,73.4449621,4,0,"BMW i4, BYD E6, Kia EV6, Tata Punch","52, 23, 16, 9",9,121.38
+Petrol Pump,"At- Rangpur, NHAI 8, po, Samalaji",23.7311901,73.4124224,2,2,"Tata Punch, BMW i4","32, 21",21,116.53
+Indian Oil Petroleum,"Ground Floor NH 48, Amzara, Bichhiwara",23.7624891,73.4449448,2,2,"Kia EV6, Audi e-Tron GT","8, 4",4,121.32
+Hindustan Petroleum,"Hpcl Petrol Pump NH-8 Village Rattanpur, Udaipur",23.763606,73.445599,4,0,"Tata Nexon EV Max, Kia EV6, Tata Punch, Tata Tigor EV","53, 4, 30, 29",4,121.45
+Bharat Petroleum,Ratanpur,23.7619748,73.4508462,1,3,BMW i4,2,2,121.73
+Petrol Pump,"Golden Quadrilateral Village Rangpur, Karchha",23.7301632,73.4070981,2,2,"Hyundai Ioniq 5, MG ZS EV","1, 26",1,116.05
+Indian Oil Petroleum,"NH 8 Ratanpur, Border, Khajoori",23.7530912,73.4659938,4,0,"Tata Tigor EV, MG Comet, Tata Nexon EV Max, Mahindra XUV 400 EL","6, 65, 25, 6",6,122.21
+Hindustan Petroleum,"Bicchiwada, Dungarpur, NH-8, Dungarpur, Dungarpur",23.7814,73.5178,4,0,"BMW i7, Tata Punch, Hyundai Kona EV, Tata Tigor EV","27, 22, 22, 28",22,128.25
+Hindustan Petroleum,"Village Dhamod Teh-bichiwara Dt-rj, Udaipur",23.774,73.5083,3,1,"MG Comet, Kia EV6, Mahindra XUV 400 EL","202, 9, 29",9,126.98
+Hindustan Petroleum,"National Highway 48, Barothi",23.7853255,73.5192113,1,3,Tata Punch,4,4,128.65
+Bharat Petroleum,Bichhiwara - Dungarpur Road,23.784822,73.5215206,4,0,"Hyundai Kona EV, Hyundai Ioniq 5, MG Comet, BYD E6","21, 7, 31, 30",7,128.79
+Hindustan Petroleum,"Hpcl Petrol Pump NH-8, Vill: Amjhara TEH.& Dist: Dungarpur, Udaipur",23.86805,73.5275,1,3,Tata Nexon EV Max,15,15,135.48
+Jio Petroleum,"No 472/919 Nh 8, Nichli, Barothi",23.819461,73.518612,4,0,"Hyundai Kona EV, Tata Tigor EV, Tata Tiago EV, Tata Punch","10, 50, 31, 11",10,131.13
+Reliance Petroleum,"Reliance Petrol Pump, NH8, Chainage 472/919, Village Baroti Nichli, Taluka Dunga, Bichhiwara",23.819407,73.518641,2,2,"MG ZS EV, Hyundai Ioniq 5","22, 17",17,131.12
+Indian Oil Petroleum,"Ground Floor NH 8, Bichhiwara, Barothi, Amjhara",23.8135001,73.520501,3,1,"Hyundai Kona EV, Tata Tiago EV, Mercedes Benz EQS","29, 4, 30",4,130.82
+Bharat Petroleum,"NH-8, Dungarpur District, Bicchiwada",23.8102,73.5222,3,1,"Tata Nexon EV Max, Kia EV6, MG ZS EV","48, 16, 6",6,130.71
+Indian Oil Petroleum,"Ground Floor NH 8, Bichhiwara, Amzara, near Km Stone, 368 to 69, Dungarpur",23.853301,73.5270101,4,0,"Mahindra XUV 400 EL, BMW i7, Kia EV6, BMW i4","12, 32, 3, 6",3,134.31
+Bharat Petroleum,"NH-8, Udaipur Ahmedabad Highway Near Neelgiri Hotel, Distt Dungarpur, Village, Bichhiwara",23.804026,73.523029,1,3,Tata Tiago EV,14,14,130.31
+Indian Oil Petroleum,"Ground Floor Amjhara, Bichhiwara, NH 8, Amzara",23.8553001,73.525901,2,2,"MG Comet, Tata Nexon EV Max","36, 29",29,134.38
+Bharat Petroleum,"WH52+5J7, National Highway 48, Paldewal",23.9079047,73.5515401,4,0,"Citroen eC3, Tata Nexon EV Max, Mahindra XUV 400 EL, Audi e-Tron GT","28, 14, 28, 4",4,140.31
+Reliance Petroleum,"KHASRA NO. - 2316 (OLD) 5301/2316 (NEW) , LHS TOWARDS :- UDAIPUR-RATANPUR H - 8 , VILLAGE :- SHISHOD , TEHSIL :- DUNGARPUR , DISTRICT:, Bichhiwara",23.9188756,73.5645135,4,0,"Hyundai Ioniq 5, Tata Nexon EV Max, BMW i7, MG ZS EV","12, 9, 25, 46",9,142.11
+Jio Petroleum,"Khasra No 2316 Old, 5301, 2316 New Nh 8, Udaipur Ratanpur Road, Shishod",23.918945,73.564576,1,3,Mercedes Benz EQS,30,30,142.12
+Hindustan Petroleum,"NH-8, Kherwada, Udaipur",23.9853,73.6061,2,2,"Tata Tiago EV, Audi e-Tron GT","6, 10",6,150.31
+Bharat Petroleum,"opposite Sanskrit school, Nh 48 udaipur Ahmedabad road Badala, opposite Sanskrit school, Kherwara Chhaoni",23.9732209,73.5878734,1,3,Kia EV6,6,6,148.05
+Indian Oil Petroleum,"opposite Police Station, Ground Floor Kherwara, opposite Police Station, Udaipur",23.9882451,73.6094552,2,2,"Mahindra XUV 400 EL, BMW i4","28, 11",11,150.78
+Hindustan Petroleum,"XJWJ+69X, National Highway 48, Parbeela",23.995606,73.630974,2,2,"BMW i4, Mahindra XUV 400 EL","56, 9",9,152.91
+Hindustan Petroleum,"8, Udaipur Rd, Pratap Nagar, Udaipur",23.9997,73.6403,2,2,"Tata Tigor EV, Mercedes Benz EQS","51, 12",12,153.9
+Hindustan Petroleum,"Village Kalawat Ahmedabad Road NH-8, Udaipur",24.006497,73.651322,4,0,"MG Comet, Tata Tiago EV, Kia EV6, Citroen eC3","90, 53, 3, 41",3,155.23
+Bharat Petroleum,"KHERWARA, UDAIPUR",23.9997198,73.6403164,2,2,"Tata Punch, Hyundai Ioniq 5","11, 10",10,153.9
+Petrol Pump,"3MFM+444, choraha rishabhdeo, Thana",24.0727667,73.6828328,1,3,Tata Tigor EV,45,45,162.71
+Indian Oil Petroleum,"National Highway 8, Jaipur",24.106366,73.6970206,3,1,"Tata Tiago EV, Tata Nexon EV Max, BMW i7","44, 45, 7",7,166.4
+Bharat Petroleum,Peepli B,24.1227568,73.694273,3,1,"MG Comet, Hyundai Ioniq 5, BYD E6","47, 9, 48",9,167.52
+Indian Oil Petroleum,"Ground Floor NH 8, Rishabdev, Balua, Kherwara Chhaoni",24.0921001,73.685601,3,1,"Audi e-Tron GT, Tata Tiago EV, Mahindra XUV 400 EL","15, 55, 10",10,164.45
+Bharat Petroleum,"RIKABDEV, UDAIPUR",24.0805119,73.686504,1,3,Hyundai Ioniq 5,13,13,163.59
+Jio Petroleum,"Khasra No, 230 & 231, Nh 8, Rishabhdev",24.0947778,73.6872222,2,2,"Tata Nexon EV Max, Kia EV6","2, 5",2,164.78
+Reliance Petroleum,"KHASRA NO. - 230, 231 , LHS TOWARDS :- UDAIPUR , NH - 8 , VILLAGE :- THANA TEHSIL :- RISHABDEO , DISTRICT:, Udaipur",24.0962009,73.6877773,3,1,"BMW i4, Mercedes Benz EQS, MG Comet","58, 16, 49",16,164.93
+Bharat Petroleum,"PIPLIYA, RISHABDEO, UDAIPUR",24.0756019,73.6856701,1,3,Tata Nexon EV Max,9,9,163.14
+Petrol Pump,"4M2W+429, National Highway 48, Gadawat Gorimba",24.1002845,73.6951216,1,3,Kia EV6,13,13,165.77
+Petrol Pump,"N.H. 8, Rishabhdev",24.0687132,73.6811896,1,3,Tata Nexon EV Max,5,5,162.27
+Indian Oil Petroleum,"Ground Floor, Prasad, Sarada, Barapal",24.1947001,73.703901,4,0,"Tata Tiago EV, Hyundai Kona EV, MG Comet, BMW i7","54, 27, 166, 7",7,174.08
+Bharat Petroleum,"5PX4+6XF, Parsad-Chawand Road, Parsad",24.198057,73.7074206,3,1,"Tata Tigor EV, MG ZS EV, Audi e-Tron GT","12, 1, 8",1,174.6
+Indian Oil Petroleum,"Ground Floor, NH 8, Hiran Magri Main Rd, Udaipur",24.2472001,73.677801,3,1,"BYD E6, Mahindra XUV 400 EL, Tata Tiago EV","34, 3, 15",3,176.77
+Bharat Petroleum,"PRASAD, UDAIPUR AHMEDABAD, UDAIPUR",24.2064334,73.6997119,3,1,"BYD E6, Kia EV6, MG Comet","1, 16, 63",1,174.77
+Hindustan Petroleum,"8M8G+RQC, Teeri",24.3170635,73.676897,3,1,"Hyundai Kona EV, Citroen eC3, MG ZS EV","20, 37, 15",15,182.75
+Indian Oil Petroleum,"8MJC+C34, Bhinder - Udaipur Rd, Udaipur",24.331,73.6702,2,2,"Hyundai Ioniq 5, Tata Nexon EV Max","6, 41",6,183.55
+Hindustan Petroleum,"HPC Dealers Post Tidi, Udaipur",24.3411434,73.6613023,4,0,"Tata Tiago EV, MG ZS EV, BYD E6, Tata Punch","30, 50, 27, 31",27,183.89
+Indian Oil Petroleum,"Ground Floor, NH 8, Udaipur Ahmedabad Road, Barapal",24.389803,73.638904,1,3,BMW i7,10,10,186.89
+Indian Oil Petroleum,"Udaipur - Ahmedabad Highway, NH 8, Barapal",24.3972379,73.6346582,1,3,Citroen eC3,21,21,187.31
+Indian Oil Petroleum,"Ground Floor Kaya, Ahmedabad Road, Dhundi, Udaipur",24.4516001,73.6537001,2,2,"Hyundai Ioniq 5, Tata Punch","5, 21",5,193.36
+Petrol Pump,"GMMJ+5Q2, National Highway 8, Sector 14, Hiran Magri, Gordhan Vilas Rural",24.5328914,73.6819025,4,0,"Hyundai Ioniq 5, BMW i7, Kia EV6, Audi e-Tron GT","1, 7, 1, 1",1,202.42
+Indian Oil Petroleum,"Ground Floor, Valicha, NH 8, Dhundi, Udaipur",24.512188,73.667134,3,1,"Tata Punch, Audi e-Tron GT, BYD E6","6, 22, 10",6,199.68
+Bharat Petroleum,"N.H.8 BALICHA, BYPASS, Udaipur",24.5224753,73.6749295,1,3,Tata Tiago EV,2,2,201.07
+Hindustan Petroleum,"FMW4+M5M, Lai",24.4967024,73.6554236,2,2,"BMW i4, Tata Punch","11, 52",11,197.59
+Bharat Petroleum,"GMHH+3M4, Hiran Magri, Udaipur",24.5276344,73.679195,3,1,"MG Comet, Citroen eC3, Kia EV6","22, 36, 6",6,201.79
+Bharat Petroleum,India,24.4936039,73.6533356,4,0,"Mercedes Benz EQS, BYD E6, Kia EV6, BYD Atto 3","12, 42, 3, 32",3,197.19
+Indian Oil Petroleum,"Ground Floor, NH 8, Goverdhan Villas, Dhundi, Udaipur",24.540687,73.685201,4,0,"Mercedes Benz EQS, BYD Atto 3, Tata Tiago EV, Hyundai Kona EV","28, 20, 13, 5",5,203.33
+Hindustan Petroleum,"HMFX+XW7, National Highway 927A, Jawahar Nagar, Ganga Gali, Udaipur",24.5749056,73.6997916,1,3,Tata Tiago EV,39,39,207.31
+Bharat Petroleum,"Bus Stand, Near Roadways, City Station Road, Jawahar Nagar, Ganga Gali, Udaipur",24.5746068,73.6998466,3,1,"Audi e-Tron GT, Mercedes Benz EQS, Hyundai Kona EV","11, 22, 22",11,207.28
+Bharat Petroleum,"opp. Jetha kitchen equipment, Sevashram Choraha, Udaipur",24.581618,73.7195803,3,1,"Tata Punch, Tata Nexon EV Max, BYD Atto 3","55, 26, 49",26,209.05
+Hindustan Petroleum,"8, Udaipur Road, Pratap Nagar, Udaipur",24.590108,73.7478681,3,1,"Hyundai Ioniq 5, Hyundai Kona EV, Tata Tiago EV","8, 53, 2",2,211.44
+Bharat Petroleum,"BALECHA, Udaipur",24.5748094,73.6997872,4,0,"Audi e-Tron GT, BMW i7, Mercedes Benz EQS, BYD E6","13, 22, 2, 9",2,207.3
+Hindustan Petroleum,"76/77, Airport Road, Janakpuri, Transport Nagar, Udaipur",24.5946736,73.7697239,1,3,Mercedes Benz EQS,3,3,213.12
+Nayara Petroleum,"1-C, Airport Rd, Janakpuri, N.B. Nagar, Bedwas Airport Road Janakpuri, N Bhairway Nagar, Bedwas, Transport Nagar, Jharnon Ki Sarai",24.5939605,73.7628625,1,3,Tata Tigor EV,9,9,212.66
+Nayara Petroleum,"Power House, Debari, NH76, Udaipur",24.6086,73.816479,1,3,BMW i4,33,33,217.13
+Bharat Petroleum,"SIDDHARTHA ENERGY STAT, Udaipur",24.5945687,73.769733,2,2,"Tata Punch, Hyundai Ioniq 5","39, 5",5,213.12
+Hindustan Petroleum,"1-C, Airport Rd, Janakpuri, N Bhairway Nagar, Bedwas, Transport Nagar, Jharnon Ki Sarai",24.5941666,73.7649985,4,0,"Hyundai Ioniq 5, BMW i7, Mahindra XUV 400 EL, MG Comet","14, 21, 36, 70",14,212.8
+Nayara Petroleum,"Khasra No. 1080 ME, Village : Rakampura , Tehsil :, Girwa, Jharnon Ki Sarai",24.5940147,73.7627898,4,0,"Hyundai Kona EV, BMW i7, Kia EV6, Tata Nexon EV Max","41, 17, 9, 53",9,212.66
+Essar Petroleum,"9, Udaipur Road, Pratap Nagar, Jharnon Ki Sarai",24.5940081,73.7627673,3,1,"Kia EV6, Hyundai Kona EV, Tata Tiago EV","18, 39, 7",7,212.66
+Indian Oil Petroleum,"Ground Floor, Bedwas, Girwa, H Magri, Udaipur",24.59362,73.7592401,3,1,"Audi e-Tron GT, Citroen eC3, Mahindra XUV 400 EL","3, 44, 50",3,212.42
+Hindustan Petroleum,"NH-76, Udaipur Road, Dabok, Udaipur",24.6244,73.8638,2,2,"Hyundai Ioniq 5, BMW i4","18, 33",18,221.38
+Jio Petroleum,"KHASRA NO. - 448/3, 449 MIN., 450 & 884/447 , LHS TOWARDS : UDAIPUR-CHITTORGARH NH - 76 , VILLAGE :- TULSIDAAS JI KI SARAI , TEHSIL : MAVLI , DISTRICT:, Dabok",24.6181353,73.8390874,2,2,"BMW i4, Hyundai Kona EV","58, 10",10,219.34
+Indian Oil Petroleum,"Ground Floor, Airport Road Dabok, National Highway 76, Daroli",24.624659,73.867248,4,0,"MG ZS EV, Hyundai Kona EV, Tata Tiago EV, BMW i7","10, 35, 9, 21",9,221.61
+Hindustan Petroleum,"HP Petrol Dealer Dabok Udaipur, Udaipur",24.624373,73.8638841,2,2,"BMW i4, BMW i7","26, 4",4,221.38
+Indian Oil Petroleum,"Ground Floor Menar, National Highway 27, valabh nagar, Udaipur",24.6230964,73.8842019,3,1,"MG Comet, Hyundai Kona EV, Tata Nexon EV Max","176, 42, 20",20,222.5
+Reliance Petroleum,"JVCV+RF9, Udaipur Airport Rajasthan India, Ordi-B",24.6220457,73.8937302,1,3,Tata Tiago EV,30,30,222.99
+Jio Petroleum,India,24.6181618,73.8396399,4,0,"Tata Tigor EV, Hyundai Ioniq 5, BMW i4, BMW i7","5, 5, 31, 16",5,219.37
+Nayara Petroleum,"State-Rajasthan, Village-Bhamrasiya, Tehsil-Vallabh Nagar, Udaipur",24.6210033,73.9528833,1,3,Tata Tigor EV,45,45,226.58
+Indian Oil Petroleum,"Ground Floor ARS Station, Bhatewar, Road, Vallabhnagar",24.6185001,73.974001,3,1,"Tata Nexon EV Max, MG Comet, Kia EV6","41, 121, 6",6,227.71
+Hindustan Petroleum,"Hpcl Dealers Vill Bhatewar, National Highway 76, Udaipur",24.6168876,73.9852338,4,0,"Citroen eC3, Hyundai Kona EV, Hyundai Ioniq 5, MG Comet","30, 12, 16, 165",12,228.28
+Nayara Petroleum,"State ? Rajasthan, Khasra No. 3822/1827 Mean/K, Village ? Bhatewar, Tehsil ? Vallabh Nagar, Batewar",24.6144973,73.9956613,3,1,"Hyundai Ioniq 5, BYD Atto 3, BYD E6","13, 42, 3",3,228.75
+Bharat Petroleum,"KHOKHARWAS ON CHITTORGARH, UDAIPUR",24.616593,74.0347952,3,1,"BYD E6, Kia EV6, Tata Punch","18, 5, 34",5,231.47
+Bharat Petroleum,"J57H+HGW, Udaipur-Chittorgarh Road, Fatehnagar",24.6139955,74.1788352,1,3,Hyundai Kona EV,22,22,240.94
+Hindustan Petroleum,"Kir ki Chowki, Bhinder",24.6138656,74.1906004,2,2,"Mahindra XUV 400 EL, Tata Tiago EV","38, 27",27,241.74
+Indian Oil Petroleum,"Ground Floor, Chittorgarh Udaipur Rd Dhundiya, Badgaon, Mavli, Udaipur",24.613989,74.183909,1,3,Mercedes Benz EQS,29,29,241.29
+Jio Petroleum,"No 168, Nh 76 Mangalwar, Udaipur Road, Rodji Ka Khera",24.6117632,74.2636485,1,3,Tata Tiago EV,35,35,246.7
+Reliance Petroleum,"KHASRA NO. - 196 MIN & 196 / 3 , LHS TOWARDS :- CHITTORGARH-UDAIPUR , NH - 76 VILLAGE :- ROD JI KA KHEDA , TEHSIL :- DOONGALA , DISTRICT:- CHITTORGARH, Chittorgarh - Mangalwad Road",24.6118496,74.2639578,1,3,Tata Tigor EV,43,43,246.73
+Hindustan Petroleum,"Mangalwad, Chittorgarh, NH-76, Chittorgarh Road, Nimbahera, Nimbahera",24.6112,74.2829,3,1,"Citroen eC3, Mercedes Benz EQS, MG Comet","13, 3, 51",3,248.03
+Bharat Petroleum,"NEPANIA, CHITTORGARH",24.6132951,74.2886111,4,0,"BYD Atto 3, Tata Tigor EV, BMW i4, Tata Punch","37, 44, 14, 38",14,248.6
+Indian Oil Petroleum,"Ground Floor Mangalwar, Chittor Road, Akola Kalan",24.610976,74.285236,2,2,"Citroen eC3, Mercedes Benz EQS","31, 21",21,248.18
+Hindustan Petroleum,"Hpcl Dealers Mangalwar, National Highway 76, Udaipur",24.6113254,74.2828356,3,1,"BMW i7, Audi e-Tron GT, Kia EV6","12, 15, 15",12,248.03
+Bharat Petroleum,Arniya,24.6842524,74.338608,1,3,Citroen eC3,34,34,257.76
+Essar Petroleum,"PCHG+FW5, Nardhari",24.7286399,74.4273483,2,2,"BMW i7, Tata Nexon EV Max","7, 34",7,267.58
+Bharat Petroleum,Hajya Kheri,24.7720798,74.4966166,4,0,"Tata Tigor EV, BYD Atto 3, Audi e-Tron GT, BYD E6","53, 32, 7, 29",7,275.95
+Indian Oil Petroleum,"National Highway 48, Ghaghsa",24.8337914,74.5713222,4,0,"Audi e-Tron GT, Tata Tigor EV, Tata Punch, Tata Tiago EV","18, 2, 17, 49",2,286.14
+Indian Oil Petroleum,"Ground Floor, NH 76, Anwalheda, Baldarkha",24.98177,74.7254601,4,0,"Tata Tigor EV, Mahindra XUV 400 EL, Tata Nexon EV Max, MG ZS EV","25, 45, 11, 10",10,308.76
+Indian Oil Petroleum,"2Q78+99R, Ground Floor Kota Road, Anwalheda, Bassi",25.0106001,74.762901,2,2,"Citroen eC3, Audi e-Tron GT","56, 17",17,313.7
+Hindustan Petroleum,"Vill: Nathwathon KA Kheda Tehsil: Begun NH 27, Kota Road, Udaipur",25.1089253,74.8719814,4,0,"Tata Punch, Tata Tigor EV, Tata Tiago EV, MG Comet","31, 37, 31, 40",31,329.2
+Hindustan Petroleum,Ramnagar at Rojtalai,25.060491,74.9899128,4,0,"Hyundai Ioniq 5, Audi e-Tron GT, Tata Punch, Mercedes Benz EQS","4, 5, 8, 21",4,334.16
+Bharat Petroleum,"322C+F39, National Highway 27, Katoda",25.0511721,75.0202221,2,2,"Kia EV6, BYD E6","16, 40",16,335.74
+Indian Oil Petroleum,"Ground Floor Balkundikalan, Begun, More, Katunda",25.050201,75.014501,2,2,"Tata Nexon EV Max, Citroen eC3","1, 6",1,335.23
+Petrol Pump,"NH 27, Bundi road, Ladpura",25.1355436,75.1215308,2,2,"Hyundai Ioniq 5, Citroen eC3","15, 31",15,349.59
+Bharat Petroleum,"NH 27, Baran Road, Bilona Bari",25.090038,75.213012,3,1,"MG ZS EV, Tata Tigor EV, Kia EV6","34, 30, 2",2,353.25
+Indian Oil Petroleum,"Ground Floor NH 76, Aroli, Bijolia",25.0972001,75.226401,1,3,Hyundai Ioniq 5,15,15,354.79
+Nayara Petroleum,"311602, Salawatiya",25.1095233,75.2475017,2,2,"Citroen eC3, Hyundai Kona EV","40, 42",40,357.3
+Hindustan Petroleum,"KM Stone, Bijoliya, 315, National Highway 76, Salawatiya",25.1207776,75.2694026,4,0,"Mercedes Benz EQS, Hyundai Kona EV, Tata Nexon EV Max, Mahindra XUV 400 EL","22, 8, 42, 7",7,359.8
+Indian Oil Petroleum,"48V5+CJR, Beejoliya Kalan",25.1436232,75.3090188,3,1,"Citroen eC3, Kia EV6, Mahindra XUV 400 EL","1, 6, 14",1,364.49
+Nayara Petroleum,"by pass, Bijolia",25.1635904,75.3266416,1,3,Tata Tigor EV,34,34,367.27
+Essar Petroleum,"9GF8+P47, Gurha Nathawatan",25.3742805,75.5152918,3,1,"Mahindra XUV 400 EL, Citroen eC3, Hyundai Ioniq 5","43, 33, 18",18,396.88
+Bharat Petroleum,"FH6M+XC6, Borkhandi",25.4624083,75.5835064,2,2,"Citroen eC3, BMW i4","8, 59",8,408.47
+Petrol Pump,"CJX3+RMX, Talab Gaon",25.4496172,75.6042278,1,3,BYD E6,30,30,409.12
+Hindustan Petroleum,"Khati Khera, Bundi NH-12, Kota Road, Bundi",25.5014443,75.5427727,1,3,MG ZS EV,37,37,408.28
+Bharat Petroleum,"FHP4+792, Kota Road, Sathur",25.4856421,75.5559035,2,2,"BMW i4, MG ZS EV","23, 15",15,408.09
+Indian Oil Petroleum,"Ground Floor, NH 12, Abar, Mangli Khurd",25.5262001,75.527801,2,2,"BMW i7, BYD Atto 3","2, 48",2,409.0
+Hindustan Petroleum,"NH 52, Hindoli Bypass, Hindoli",25.5683722,75.5034276,2,2,"Tata Tiago EV, Citroen eC3","57, 14",14,410.38
+Indian Oil Petroleum,"Ground Floor, Deoli Road, Hindoli, Abar",25.5776001,75.496501,1,3,Mahindra XUV 400 EL,23,23,410.58
+Indian Oil Petroleum,"Ground Floor, NH 12, Pech Ki Baori",25.6454001,75.457201,2,2,"BMW i7, BYD Atto 3","3, 26",3,412.94
+Petrol Pump,"Q9JX+823, National Highway 12, Deoli",25.7807563,75.3975391,4,0,"Tata Tiago EV, BYD E6, Tata Nexon EV Max, Citroen eC3","22, 33, 52, 36",22,419.45
+Reliance Petroleum,"QCVC+52, Madhosinghpura at Daulta",25.7929438,75.4200462,3,1,"MG Comet, Mahindra XUV 400 EL, Tata Tigor EV","164, 31, 37",31,421.99
+Hindustan Petroleum,"Sirohi Tonk, National Highway 12, Kota",25.822736,75.472978,3,1,"Tata Punch, Mahindra XUV 400 EL, Hyundai Kona EV","12, 43, 41",12,428.05
+Hindustan Petroleum,"mode, NH-12, Panwad Road, Deoli",25.797904,75.4282917,1,3,Tata Punch,23,23,422.96
+Bharat Petroleum,"NH-12 , RHSMOVING FROM KOTA TO, Tonk",25.859267,75.535687,3,1,"Tata Punch, Citroen eC3, Tata Nexon EV Max","43, 15, 11",11,435.33
+Hindustan Petroleum,"Saroli Mode, National Highway 52, Tonk",25.89778,75.5858,3,1,"Hyundai Kona EV, Tata Punch, Audi e-Tron GT","54, 14, 14",14,441.9
+Essar Petroleum,"2PJ4+H53, AHAMADPURA, CHOKI, CHHAN",26.031396,75.7054071,3,1,"BMW i7, Hyundai Ioniq 5, BYD Atto 3","2, 13, 8",2,460.88
+Hindustan Petroleum,"NH-52 BY PASS AMIRPUR ,KHEDA,CHHAN, National Highway 52, Tonk",26.0169282,75.690938,1,3,Kia EV6,8,8,458.72
+Indian Oil Petroleum,"Ground Floor NH 12, Usmanpura, Tonk",26.094799,75.732816,3,1,"Audi e-Tron GT, BMW i4, Tata Tiago EV","10, 57, 20",10,467.86
+Indian Oil Petroleum,"Ground Floor, near Toll Plaza, Bye Pass, Tonk",26.1223201,75.7531401,1,3,Tata Tigor EV,53,53,471.47
+Hindustan Petroleum,"Pakkabadha, Tonk, NH-12, Tonk Road, Tonk, Tonk",26.183006,75.822258,3,1,"Mahindra XUV 400 EL, Hyundai Ioniq 5, Hyundai Kona EV","44, 7, 55",7,481.12
+Jio Petroleum,"Khasra No 6715/1/1And 6715/1/2, Nh 12, Jaipur - Kota Road, Tonk",26.1587528,75.7981222,4,0,"Tata Punch, Audi e-Tron GT, Tata Nexon EV Max, BYD Atto 3","46, 22, 40, 43",22,477.51
+Reliance Petroleum,"KHASRA NO. - 6715/1/1& 6715/1/2 , LHS TOWARDS :- KOTA-JAIPUR , NH - 12 VILLAGE :- TONK , TEHSIL :- TONK, DISTRICT:, Tonk",26.1587671,75.7981124,2,2,"Tata Nexon EV Max, Citroen eC3","39, 10",10,477.51
+Indian Oil Petroleum,"NH 12, Gandhi Nagar, Tonk",26.1547223,75.7964312,3,1,"Mercedes Benz EQS, Hyundai Kona EV, BMW i7","21, 16, 13",13,477.07
+Petrol Pump,"5RG5+HM3, Chawani, Jaipur Road, Tonk",26.1763796,75.809179,1,3,BMW i7,16,16,479.68
+Hindustan Petroleum,"Tonk Bye-pass IN Front OF Sadar Police STN Industrial Area, Tonk, Kota",26.183,75.8222,4,0,"Kia EV6, Audi e-Tron GT, BYD Atto 3, BYD E6","14, 20, 39, 44",14,481.12
+Bharat Petroleum,"BANDHA NH12 TONK, Tonk",26.190641,75.8371962,4,0,"BMW i4, BYD E6, Mercedes Benz EQS, BYD Atto 3","24, 21, 2, 31",2,482.76
+Bharat Petroleum,"5RMG+XPH, National Highway 52, Bairwa, Tonk",26.184931,75.8268659,2,2,"BYD Atto 3, Mercedes Benz EQS","43, 29",29,481.59
+Indian Oil Petroleum,"7V56+RGP, Motooka",26.2595831,75.861334,2,2,"Citroen eC3, MG Comet","28, 206",28,489.97
+Bharat Petroleum,"MOTUKA JAIPUR-TONK ROAD, NH 12, Tonk",26.259639,75.861389,4,0,"Tata Nexon EV Max, MG Comet, Mahindra XUV 400 EL, Kia EV6","41, 204, 48, 18",18,489.98
+Indian Oil Petroleum,"Ground Floor NH 52 Motuka, Baroni",26.281035,75.889929,4,0,"Tata Punch, Tata Tigor EV, MG ZS EV, Mercedes Benz EQS","36, 3, 30, 16",3,493.67
+Bharat Petroleum,"7V9G+W4M, rajSthan, Baroni",26.2698354,75.8752962,1,3,BMW i7,17,17,491.76
+Hindustan Petroleum,"HP Petrol Pump Village Pahari Newai, Kota",26.31571,75.90839,3,1,"BYD Atto 3, Audi e-Tron GT, Hyundai Kona EV","4, 13, 53",4,497.73
+Reliance Petroleum,"opposite Heena Motors, Ground Floor Nh 52, Jaipur Kota Road, Newai, opposite Heena Motors, Bypass, Tonk",26.3627048,75.948582,3,1,"Tata Punch, BMW i4, Mahindra XUV 400 EL","22, 28, 19",19,504.28
+Indian Oil Petroleum,"Ground Floor Newai, Byepass, Baroni",26.372942,75.946365,2,2,"Audi e-Tron GT, BMW i4","9, 41",9,504.96
+Petrol Pump,Tonk,26.3265699,75.9150848,4,0,"Audi e-Tron GT, Tata Tiago EV, Hyundai Ioniq 5, BYD E6","3, 46, 8, 36",3,499.07
+Nayara Petroleum,Khasra 1342/1 Village &Post - Gunsi Tehsil-Newai Dist- Tonk,26.4589755,75.9423223,1,3,Audi e-Tron GT,11,11,511.71
+Indian Oil Petroleum,"Ground Floor, Amer Clark Hotel, near Hotel Clarks Amer, Kothun, Tonk Road, Jaipur",26.500275,75.947027,2,2,"Tata Nexon EV Max, BYD Atto 3","49, 13",13,515.42
+Indian Oil Petroleum,"Ground Floor NH 11A, Kareda Bujurg, Newai, Khirgi",26.497843,76.023201,4,0,"BYD E6, MG ZS EV, Tata Punch, BMW i4","41, 10, 44, 54",10,520.34
+Essar Petroleum,"F2X6+XFX, National Highway 23, Sanwaliya",26.4999812,76.0112235,4,0,"Mahindra XUV 400 EL, Hyundai Ioniq 5, Audi e-Tron GT, BMW i4","14, 8, 21, 4",4,519.7
+Indian Oil Petroleum,"Ground Floor, Sunderpur Ka Badh, Arniyakedar, Lalsot Rd, Kothun",26.508201,76.097201,4,0,"Tata Nexon EV Max, MG ZS EV, Hyundai Ioniq 5, BMW i7","16, 34, 7, 17",7,526.2
+Nayara Petroleum,"Khasra No. 470/309, Village ? Shivsinghpura, Tehsil ? Lalsot, District ? Dausa, Shivinghpura",26.5254887,76.229888,4,0,"BYD E6, BYD Atto 3, Tata Tigor EV, BMW i4","10, 16, 40, 15",10,536.73
+Bharat Petroleum,"NH11A, Dungarpur",26.668529,76.319801,2,2,"Hyundai Ioniq 5, MG ZS EV","16, 15",15,554.38
+Hindustan Petroleum,Aluda,26.8126277,76.382678,2,2,"BMW i4, BYD Atto 3","43, 10",10,570.3
+Hindustan Petroleum,"Village Bhandarej Bhandarej TO Garh Road Tehsil, Jaipur",26.8984978,76.4189827,4,0,"BMW i4, Tata Tiago EV, BMW i7, Citroen eC3","40, 39, 12, 43",12,579.74
+Indian Oil Petroleum,"rest area, Dhanawar, Delhi - Mumbai Expressway, Dausa",26.9634989,76.4994106,3,1,"Tata Tiago EV, Audi e-Tron GT, Tata Tigor EV","9, 7, 39",7,590.46
+Nayara Petroleum,"Khasra No. 1061/1 (New No. 1308/ 1061/ 1), Village Pichupada, Distt, Pichupada",27.0022629,76.5688026,1,3,MG ZS EV,7,7,598.3
+Hindustan Petroleum,Peechupara Khurd,26.9982114,76.5703287,3,1,"Citroen eC3, Tata Tiago EV, Kia EV6","12, 56, 7",7,598.08
+Nayara Petroleum,"3J6M+64V, Kishanpura",27.0606148,76.6327829,4,0,"BMW i7, Tata Punch, Tata Tiago EV, MG ZS EV","28, 15, 54, 47",15,607.37
+Bharat Petroleum,"MAUJPUR ALWAR, Alwar",27.3628089,76.7964969,2,2,"BYD E6, Tata Tigor EV","16, 11",11,643.04
+Indian Oil Petroleum,Firozpur Jhirka,27.7389375,76.9843125,2,2,"Citroen eC3, Kia EV6","21, 11",11,686.57
+Indian Oil Petroleum,"q2r6+c23, Baghola",27.7910441,77.0098944,1,3,Kia EV6,5,5,692.59
+Hindustan Petroleum,"W357+JW4, Major District Road 131, Marora",27.9090153,77.0648361,2,2,"Hyundai Ioniq 5, Tata Punch","1, 44",1,706.05
+Indian Oil Petroleum,"Ground Floor Gurgaon Sohna Road, Dhunelaon, Bhirawati",28.2957879,77.0669789,3,1,"Tata Punch, Hyundai Ioniq 5, Kia EV6","38, 2, 14",2,739.32
+Hindustan Petroleum,"HPC Petrol Pump Gurgaon- Alipur, Badshahpur Sohna Road Highway, Vigyan Vihar, Sector 56, Gurugram",28.30476,77.06724,2,2,"Hyundai Kona EV, MG Comet","14, 80",14,740.12
+Indian Oil Petroleum,"Ground Floor, Sohna - Gurgaon Road, Alipur, Bhirawati",28.3088989,77.0661838,4,0,"Kia EV6, BYD E6, Hyundai Ioniq 5, Tata Tigor EV","18, 8, 1, 55",1,740.41
+Hindustan Petroleum,"Gurgaon Bhondsi, Badshahpur Sohna Road Highway, Vigyan Vihar, Gurugram",28.3462,77.06739,2,2,"Tata Punch, BMW i4","51, 2",2,743.74
+Bharat Petroleum,"VILLAGE BHONDSITEHSIL, Sohna - Gurgaon Road, Gurugram",28.3395234,77.0681833,4,0,"Hyundai Kona EV, Tata Nexon EV Max, Audi e-Tron GT, Tata Punch","9, 28, 10, 9",9,743.2
+Hindustan Petroleum,Badshahpur Sohna Road Highway,28.3304001,77.0676065,1,3,Tata Nexon EV Max,55,55,742.37
+Indian Oil Petroleum,"Sohna - Gurgaon Road, Badshahpur, Gurugram",28.36516,77.05996,4,0,"Audi e-Tron GT, Kia EV6, Hyundai Kona EV, MG Comet","11, 10, 20, 88",10,744.94
+Bharat Petroleum,"opposite AIRFORCE Station, Shop No - 38, State Highway 13, Sector 38 Islampur Village, Sector 38, Gurugram, opposite AIRFORCE Station",28.4375003,77.0351418,2,2,"MG Comet, MG ZS EV","83, 4",4,749.81
+Hindustan Petroleum,"Near Aricent building, HPCL petrol Pump, Sector-48, Adjacent Central Park II, Near Aricent building, Central Park Resorts Road, Gurugram",28.4274337,77.0341579,2,2,"BYD Atto 3, Hyundai Ioniq 5","24, 8",8,748.86
+Bharat Petroleum,"Delhi - Jaipur Expressway, Sector 31, Gurugram",28.4558658,77.046399,4,0,"Tata Nexon EV Max, BYD Atto 3, BMW i7, MG ZS EV","56, 7, 9, 2",2,752.09
+Indian Oil Petroleum,"2, Urban Estate, Sector 49, Gurugram",28.417473,77.041679,1,3,Audi e-Tron GT,20,20,748.43
+Indian Oil Petroleum,"Gurgaon - Delhi Expressway, IFFCO Chowk, Sector 18, Gurugram",28.48034,77.07116,4,0,"Hyundai Kona EV, Citroen eC3, BYD Atto 3, Tata Tiago EV","33, 34, 31, 57",31,755.73
+Hindustan Petroleum,"F3G8+PJ6, Block C, Harjan Basti, Sector 17, Gurugram",28.4767836,77.066511,3,1,"BMW i7, Tata Nexon EV Max, Tata Punch","9, 53, 38",9,755.14
+Bharat Petroleum,"F384+67C, Delhi - Jaipur Expressway, Block A, Sector 30, Gurugram",28.465562,77.0556369,4,0,"Tata Nexon EV Max, Audi e-Tron GT, Hyundai Kona EV, BYD E6","26, 8, 28, 43",8,753.5
+Indian Oil Petroleum,"Ground Floor, NH 8, Rathiwas, Manesar, Sarhol",28.4824548,77.075601,4,0,"BYD Atto 3, Hyundai Kona EV, BMW i4, MG Comet","16, 16, 35, 153",16,756.18
+Indian Oil Petroleum,"10, Delhi - Jaipur Expressway, Industrial Development Area, Sector 16, Gurugram",28.4665179,77.0552328,2,2,"Kia EV6, Audi e-Tron GT","8, 12",8,753.56
+Hindustan Petroleum,"near Radisson Hotel, NH-8, Mahipalpur, New Delhi",28.544867,77.12142,3,1,"Tata Punch, BMW i4, BYD Atto 3","54, 16, 40",16,764.41
+Indian Oil Petroleum,"NH 8 Exit 4, Samalka, New Delhi",28.5246908,77.1010649,4,0,"Citroen eC3, Tata Tigor EV, Audi e-Tron GT, MG Comet","5, 44, 16, 125",5,761.42
+Indian Oil Petroleum,"NH 8, Mahipalpur, New Delhi",28.5448618,77.1218743,4,0,"Hyundai Kona EV, MG Comet, Hyundai Ioniq 5, Tata Punch","39, 181, 15, 25",15,764.44
+Hindustan Petroleum,"Airport Hotel Breeze Inn, Near Village, NH-8, Mahipalpur - Rangpuri Road, Mahipalpur Village, Indira Gandhi International Airport, New Delhi",28.5406844,77.1168703,2,2,"Hyundai Ioniq 5, MG Comet","3, 155",3,763.77
+Petrol Pump,"G4WH+M3V, Mahipalpur, New Delhi",28.546733,77.1276833,4,0,"Hyundai Ioniq 5, Tata Tigor EV, MG Comet, Tata Punch","4, 19, 73, 50",4,764.95
+Indian Oil Petroleum,"Ground Floor, Near IGI Airport, NH 8, Rangpuri, Samalka, New Delhi",28.5919919,77.159412,3,1,"BMW i7, Mercedes Benz EQS, MG ZS EV","25, 5, 23",5,770.82
+Hindustan Petroleum,"NH-8, Dhaula Kuan, Crossing, Dhaula Kuan, New Delhi",28.5928369,77.1637906,2,2,"Mercedes Benz EQS, MG Comet","26, 16",16,771.16
+Petrol Pump,"near Army College Of Medical Science, Ring Road, Brar Square, Delhi Cantonment, New Delhi",28.6066166,77.1416733,1,3,Citroen eC3,53,53,771.06
